@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-25T02:05:37.625483"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "• Ingredients:",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "• Instructions:",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 6,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 7,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "• Instructions:",
+      "importance_rank": 8,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 9,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "• Instructions:",
+      "importance_rank": 10,
+      "page_number": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Banchan\n• Ingredients:\no Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi\n• Instructions:\no Prepare each side dish separately.",
+      "page_number": 3
+    }
+  ]
+}

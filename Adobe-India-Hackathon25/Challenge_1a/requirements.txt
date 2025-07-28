@@ -1,0 +1,3 @@
+PyMuPDF==1.23.8
+# tqdm is optional for progress, can be removed if not needed
+tqdm
