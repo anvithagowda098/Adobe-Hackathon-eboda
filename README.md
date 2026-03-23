@@ -19,7 +19,11 @@ Our Round 1B implementation provides intelligent document analysis that:
 - Offline operation with no internet dependencies
 - CPU-only processing under 60 seconds
 - Model size under 1GB total
-- Docker containerized for consistent deployment
+
+### Teammates
+- Bhumi Garg
+- Anvitha Gowda
+- Kashish Rai
 
 ## Quick Start
 ```bash
